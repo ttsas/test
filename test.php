@@ -1,3 +1,7 @@
-<?php
-	print "test";
-?>
+<html>
+<body>
+	<?php
+		print "test";
+	?>
+</body>
+</html>
