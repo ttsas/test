@@ -1,7 +1,7 @@
 <html>
 <body>
 	<?php
-		print "test";
+		print "t est";
 	?>
 	あいうえお
 	<button type="button" name="aaa" value="aaa">
